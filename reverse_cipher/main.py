@@ -1,7 +1,7 @@
 # Reverse Cipher
 # https://www.nostarch.com/crackingcodes/ (BSD Licensed)
 
-message = 'Put my thing down, flip it, and reverse it.'
+message = '.ti esrever dna ,ti pilf ,nwod gniht ym tuP'
 translated = ''
 
 i = len(message) - 1
@@ -10,4 +10,3 @@ while i >= 0:
     i = i - 1
 
 print(translated)
- 
